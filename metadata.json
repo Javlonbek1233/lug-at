@@ -1,0 +1,6 @@
+{
+  "name": "Online Dictionary & Language Learning",
+  "description": "Premium online lug'at va Gemini AI orqali til o'rgatuvchi zamonaviy platforma.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
